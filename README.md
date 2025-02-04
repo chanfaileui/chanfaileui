@@ -15,7 +15,7 @@
 
 <!-- <img align="right" width="400" src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif]"/> -->
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=chanfaileui&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=fb5f8c&text_color=ffffff&icon_color=fb5f8c"/>
+<!-- <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=chanfaileui&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=fb5f8c&text_color=ffffff&icon_color=fb5f8c"/> -->
 
 ### ⌘ Current Status
 
