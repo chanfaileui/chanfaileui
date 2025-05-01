@@ -21,12 +21,11 @@
 
 ⟨ sydney/manchester/hk ⟩  
 ⟨ nlp + fullstack developer ⟩  
-⟨ making coffee or coding ⟩  
-⟨ supernatural.mp3 playing ⟩  
+⟨ making coffee AND coding ⟩  
 
 ### ⌘ Tech Stack
 
-⟨ languages: python • typescript • c • java ⟩  
+⟨ languages: python • typescript • c • java • rust ⟩  
 ⟨ frameworks: pytorch • tensorflow • react ⟩  
 ⟨ interests: nlp • distributed systems • cloud ⟩  
 
