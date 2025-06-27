@@ -23,12 +23,6 @@
 ⟨ nlp + fullstack developer ⟩  
 ⟨ making coffee AND coding ⟩  
 
-### ⌘ Tech Stack
-
-⟨ languages: python • typescript • c • java • rust ⟩  
-⟨ frameworks: pytorch • tensorflow • react ⟩  
-⟨ interests: nlp • distributed systems • cloud ⟩  
-
 </div>
 
 <div align="center">
